@@ -32,8 +32,8 @@ It combines a modern **React + Bootstrap** frontend with a powerful **Django RES
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [https://your-live-site-link.com](https://your-live-site-link.com)  
-📡 **Backend API:** [https://your-api-endpoint.com/api/](https://your-api-endpoint.com/api/)
+🔗 **Live Website:** [](Website coming Live Soon)  
+📡 **Backend API:** [](Coming Soon/)
 
 ---
 
