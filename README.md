@@ -5,9 +5,8 @@
 
 <div align="center">
 
-# ⚙️ SmartJarwarTools
-
-### 🧠 A Modern Full-Stack Web Tools Suite — Smart, Fast, and Elegant
+# ⚙️ SmartJarwarTools  
+### 🧠 A Modern Full-Stack Web Tools Suite — Smart, Fast, and Elegant  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -20,39 +19,39 @@
 
 ---
 
-## 🧰 Overview
+## 🧰 Overview  
 
-**SmartJarwarTools** is a full-stack web application offering a variety of smart file utilities — compress, merge, convert, and watermark your files seamlessly.  
+**SmartJarwarTools** is a modern full-stack web application providing a suite of smart file utilities — compress, merge, convert, and watermark your files seamlessly.  
 
-It combines a modern **React + Bootstrap** frontend with a powerful **Django REST Framework** backend for processing, storage, and API management.  
+It combines a sleek **React + Bootstrap** frontend with a powerful **Django REST Framework** backend for file processing, storage, and API management.  
 
-> 💡 The goal: A single, fast, and beautiful hub for everyday file operations.
-
----
-
-## 🌐 Live Demo
-
-🔗 **Live Website:** [](Website coming Live Soon)  
-📡 **Backend API:** [](Coming Soon/)
+> 💡 **Goal:** A single, fast, and elegant hub for everyday file operations.
 
 ---
 
-## ⚙️ Tech Stack
+## 🌐 Live Demo  
+
+🔗 **Live Website:** _Coming Soon_  
+📡 **Backend API:** _Coming Soon_
+
+---
+
+## ⚙️ Tech Stack  
 
 | Layer | Technologies |
 |--------|---------------|
 | **Frontend** | React, React Router, Bootstrap 5, Framer Motion |
 | **Backend** | Django, Django REST Framework |
 | **HTTP / API** | Axios, Fetch |
-| **Database** | SQLite / PostgreSQL |
+| **Database** | SQLite |
 | **File Handling** | Django File Uploads + DRF Serializers |
-| **State Management** | React Context API (for Theme + App state) |
+| **State Management** | React Context API (Theme + App state) |
 | **Icons** | React Icons (Font Awesome) |
-| **Deployment** | Vercel (Frontend) + Render / Railway / DigitalOcean (Backend) |
+| **Deployment** | Coming Soon |
 
 ---
 
-## 🚦 Project Routes (Frontend)
+## 🚦 Project Routes (Frontend)  
 
 | Route | Component | Description |
 |-------|------------|-------------|
@@ -70,57 +69,63 @@ It combines a modern **React + Bootstrap** frontend with a powerful **Django RES
 
 ---
 
-## 🧩 Key Features
+## 🧩 Key Features  
 
-### 🎨 Frontend Highlights
+### 🎨 Frontend Highlights  
 - Fully **theme-adaptive** (Dark / Light mode)  
-- Built with **Bootstrap 5** components for responsiveness  
+- Built with **Bootstrap 5** for responsiveness  
 - **Framer Motion** animations for smooth transitions  
 - Beautiful **gradient backgrounds** and **neon UI effects**  
 - Accessible and mobile-friendly design  
-- **WhatsApp floating widget** for instant contact  
+- **WhatsApp floating widget** for instant communication  
 
-### 🖥️ Backend Highlights
-- Built using **Django REST Framework (DRF)**  
-- **RESTful APIs** for file conversion and management  
+### 🖥️ Backend Highlights  
+- Powered by **Django REST Framework (DRF)**  
+- RESTful APIs for all file operations  
 - **File upload & streaming** support for large files  
-- **DRF Serializers** for structured data exchange  
+- **DRF Serializers** for structured data handling  
 - **CORS-enabled** for React frontend communication  
-- Modular app structure for easy scalability  
+- Modular app structure for scalability  
 
 ---
 
-## 🔗 Example API Endpoints (Backend)
+## 🔗 Example API Endpoints (Backend)  
 
 | Endpoint | Method | Description |
 |-----------|--------|-------------|
-| `/api/compress/` | `POST` | Compress file (PDF/Image) |
-| `/api/merge-pdf/` | `POST` | Merge multiple PDF files |
-| `/api/pdf-to-images/` | `POST` | Convert PDF pages into images |
-| `/api/watermark/` | `POST` | Add watermark to image |
-| `/api/convert/docx-to-pdf/` | `POST` | Convert DOCX to PDF |
-| `/api/convert/pdf-to-docx/` | `POST` | Convert PDF to DOCX |
-| `/api/images-to-pdf/` | `POST` | Combine multiple images into a single PDF |
+| `/compress/` | `POST` | Compress file (PDF/Image) |
+| `/merge-pdf/` | `POST` | Merge multiple PDF files |
+| `/pdf-to-images/` | `POST` | Convert PDF pages into images |
+| `/watermark/` | `POST` | Add watermark to image |
+| `/convert/docx-to-pdf/` | `POST` | Convert DOCX to PDF |
+| `/convert/pdf-to-docx/` | `POST` | Convert PDF to DOCX |
+| `/images-to-pdf/` | `POST` | Combine multiple images into a single PDF |
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots  
 
-> Replace these with actual images hosted in your GitHub repo (`/Images/` folder).
+> 📸 Replace these with actual image paths from your GitHub repo (`/Images/` folder).
 
 | 💡 Light Mode | 🌙 Dark Mode |
 |:-------------:|:------------:|
-| ![Light Mode Screenshot](https://raw.githubusercontent.com/your-username/smartjarwartools/main/screenshots/light-mode.png) | ![Dark Mode Screenshot](https://raw.githubusercontent.com/your-username/smartjarwartools/main/screenshots/dark-mode.png) |
+| ![Light Mode 1](ImagesToPdf/Images/02.png) ![Light Mode 2](ImagesToPdf/Images/04.png) ![Light Mode 3](ImagesToPdf/Images/06.png) | ![Dark Mode 1](ImagesToPdf/Images/01.png) ![Dark Mode 2](ImagesToPdf/Images/03.png) ![Dark Mode 3](ImagesToPdf/Images/05.png) |
 
 | 🧰 Tools Dropdown | 📨 Contact Page |
 |:-----------------:|:----------------:|
-| ![Tools Dropdown Screenshot](https://raw.githubusercontent.com/your-username/smartjarwartools/main/screenshots/tools-dropdown.png) | ![Contact Page Screenshot](https://raw.githubusercontent.com/your-username/smartjarwartools/main/screenshots/contact-page.png) |
+| ![Tools Dropdown](ImagesToPdf/Images/07.png) ![Tools Dropdown 2](ImagesToPdf/Images/08.png) | ![Contact Page](ImagesToPdf/Images/05.png) ![About Page](ImagesToPdf/Images/03.png) |
 
 | ⚙️ PDF Tools | 🖼️ Image Tools |
 |:-------------:|:--------------:|
-| ![PDF Tools Screenshot](https://raw.githubusercontent.com/your-username/smartjarwartools/main/screenshots/pdf-tools.png) | ![Image Tools Screenshot](https://raw.githubusercontent.com/your-username/smartjarwartools/main/screenshots/image-tools.png) |
+| ![PDF Tools 1](ImagesToPdf/Images/09.png) ![PDF Tools 2](ImagesToPdf/Images/10.png) ![PDF Tools 3](ImagesToPdf/Images/11.png) ![PDF Tools 4](ImagesToPdf/Images/12.png) | ![Image Tools 1](ImagesToPdf/Images/13.png) ![Image Tools 2](ImagesToPdf/Images/14.png) ![Image Tools 3](ImagesToPdf/Images/15.png) ![Image Tools 4](ImagesToPdf/Images/16.png) |
 
 ---
 
-## 📁 Folder Structure
+## 🧑‍💻 Setup Instructions  
 
+### 1️⃣ Backend (Django)
+```bash
+cd backend
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
